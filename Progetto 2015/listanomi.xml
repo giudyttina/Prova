@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listNym>
+   <nym xml:id="Iuppiter">
+      <form type="lemma"> Iovi</form>
+   </nym>
+   <nym xml:id="Aelius">
+      <form type="lemma">Aelius</form>
+   </nym>
+   <nym xml:id="Aurelius">
+      <form type="lemma">Aurelius</form>
+   </nym>
+   <nym xml:id="Iuppiter">
+      <form type="lemma">Iovi</form>
+   </nym>
+   <nym xml:id="Iuppiter">
+      <form type="lemma">Iovi</form>
+   </nym>
+   <nym xml:id="Manlius">
+      <form type="lemma">Manl  ius</form>
+   </nym>
+   <nym xml:id="Mucianus">
+      <form type="lemma">Mucia nus</form>
+   </nym>
+   <nym xml:id="Publius">
+      <form type="lemma">Publius</form>
+   </nym>
+   <nym xml:id="Victor">
+      <form type="lemma">Vic  tor</form>
+   </nym>
+</listNym>

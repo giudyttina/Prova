@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Progetto 2015</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>EpiDoc workshop maggio</authority>
+            </publicationStmt>
+            <sourceDesc>
+                <p>EAGLE</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2015-05-26+01:00" who="giudittamirizio"> Created from list</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="index">
+                <ab>
+                    <title>Iscrizioni</title>
+                    <list>
+                        <item xml:id="i1" corresp="ip00000074"/>
+                        <item xml:id="i2" corresp="ip00000075"/>
+                        <item xml:id="i3" corresp="ip00000076"/>
+                        <item xml:id="i4" corresp="ip00000077"/>
+                        <item xml:id="i5" corresp="ip00000061"/>
+                        <item xml:id="i6" corresp="ip00000062"/>
+                    </list>
+                </ab>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listPerson>
+   <person>
+      <persName xml:id=""> Iovi</persName>
+      <type>divine</type>
+      <floruit notBefore="" notAfter=""/>
+      <idno/>
+   </person>
+   <person>
+      <persName xml:id="">Aurelius Vic tor</persName>
+      <type>attested</type>
+      <floruit notBefore="" notAfter=""/>
+      <idno/>
+   </person>
+   <person>
+      <persName xml:id="">Iovi</persName>
+      <type>divine</type>
+      <floruit notBefore="" notAfter=""/>
+      <idno/>
+   </person>
+   <person>
+      <persName xml:id="">Iovi optimo maximo</persName>
+      <type>divine</type>
+      <floruit notBefore="NaN" notAfter=""/>
+      <idno/>
+   </person>
+   <person>
+      <persName xml:id="">Manl ius</persName>
+      <type>attested</type>
+      <floruit notBefore="" notAfter=""/>
+      <idno/>
+   </person>
+   <person>
+      <persName xml:id="">Publius Aelius Mucia nus</persName>
+      <type>attested</type>
+      <floruit notBefore="NaN" notAfter=""/>
+      <idno/>
+   </person>
+</listPerson>

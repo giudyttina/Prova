@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="16.0">
+    <meta>
+        <filters directoryPatterns="" filePatterns="" positiveFilePatterns="" showHiddenFiles="false"/>
+        <options/>
+    </meta>
+    <projectTree name="Progetto%202015.xpr">
+        <folder path="html/"/>
+        <folder path="xml/"/>
+        <folder path="xsl/"/>
+        <file name="Listall.xml"/>
+    </projectTree>
+</project>
